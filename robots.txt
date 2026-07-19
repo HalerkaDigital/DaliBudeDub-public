@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /directory
+Disallow: /
+
+Sitemap: https://dali-bude.com/sitemap.xml
