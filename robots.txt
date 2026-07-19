@@ -2,4 +2,4 @@ User-agent: *
 Allow: /directory
 Disallow: /
 
-Sitemap: https://dali-bude.com/sitemap.xml
+Sitemap: https://dbd.halerka.digital/sitemap.xml
