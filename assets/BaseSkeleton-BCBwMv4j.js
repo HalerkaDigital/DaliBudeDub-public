@@ -1,0 +1,1 @@
+import{d as t,o as a,c as s,n,_ as d}from"./index-CnpchKbf.js";const o=t({__name:"BaseSkeleton",props:{height:{default:"1rem"},width:{default:"100%"},radius:{default:"8px"}},setup(e){return(i,r)=>(a(),s("div",{class:"skeleton",style:n({height:e.height,width:e.width,borderRadius:e.radius}),"aria-hidden":"true"},null,4))}}),c=d(o,[["__scopeId","data-v-e30552bb"]]);export{c as B};
