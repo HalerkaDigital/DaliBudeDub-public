@@ -1,0 +1,1 @@
+import{z as r}from"./index-IBV7gXmn.js";function c(e,t){return r.get("/search",{query:{q:e.q,genres:e.genres,sort:e.sort,year:e.year,cursor:e.cursor,limit:e.limit},signal:t})}function i(){return r.get("/home")}function n(e=100){return r.get("/directory",{query:{limit:e}})}export{n as a,i as f,c as s};
