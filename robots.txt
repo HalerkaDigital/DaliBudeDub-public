@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /directory
+Allow: /sitemap.xml
 Disallow: /
 
 Sitemap: https://dbd.halerka.digital/sitemap.xml
